@@ -2,7 +2,7 @@
 
 > Animal husbandry, food preservation, natural building, energy systems, and emergency preparedness
 
-**201 pages**
+**206 pages**
 
 ## A
 
@@ -107,6 +107,7 @@
 - [[homestead-internet-options]]
 - [[homestead-kitchen-design]]
 - [[homestead-labor-and-volunteers]]
+- [[homestead-planning-and-zoning]]
 - [[homestead-poultry-health]]
 - [[homestead-record-keeping]]
 - [[homestead-scale-assessment]]
@@ -150,6 +151,7 @@
 ## M
 
 - [[making-ghee-and-clarified-fats]]
+- [[mangalitza-pig-breeds]]
 - [[maple-syrup-production]]
 - [[mason-jar-preserving-guide]]
 - [[masonry-heater-design]]
@@ -180,10 +182,12 @@
 
 ## P
 
+- [[paddock-system-pigs]]
 - [[passive-solar-and-biomass-energy]]
 - [[passive-solar-design]]
 - [[pellet-stove-heating]]
 - [[phase-change-materials-thermal-energy-storage]]
+- [[pickle-making]]
 - [[pig-husbandry]]
 - [[pig-keeping-guide]]
 - [[pond-design-and-construction]]
@@ -214,6 +218,7 @@
 - [[root-cellar-design-and-construction]]
 - [[root-cellaring-and-no-energy-food-storage]]
 - [[root-cellaring-guide]]
+- [[roundwood-shelter-building]]
 
 ## S
 
@@ -270,6 +275,3 @@
 - [[wood-fired-hot-tub]]
 - [[woodlot-and-coppicing]]
 - [[woodlot-management]]
-- [[do-nothing-farming-method]]
-- [[haze-breeding-lineage]]
-- [[solomon-manure-nutrient-variability-COF]]

@@ -2,7 +2,7 @@
 
 > Cannabis cultivation, genetics, breeding, processing, and medical applications
 
-**958 pages**
+**972 pages**
 
 ## A
 
@@ -414,7 +414,9 @@
 - [[cannabis-health-endo-cannabinoid-system]]
 - [[cannabis-health-index]]
 - [[cannabis-health-index-chi-scoring]]
+- [[cannabis-health-index-scoring]]
 - [[cannabis-health-index-scoring-evidence-methodology]]
+- [[cannabis-health-index-scoring-methodology]]
 - [[cannabis-health-index-scoring-system]]
 - [[cannabis-health-methods-of-administration]]
 - [[cannabis-health-pain-management]]
@@ -497,6 +499,7 @@
 - [[cannabis-outdoor-growing]]
 - [[cannabis-pain-management-protocols]]
 - [[cannabis-perpetual-grow-cycle]]
+- [[cannabis-pest-management]]
 - [[cannabis-pest-management-guide]]
 - [[cannabis-ph-management-and-soil-flushing]]
 - [[cannabis-phenotype-and-genotype-guide]]
@@ -531,14 +534,19 @@
 - [[cannabis-root-microbiome]]
 - [[cannabis-root-rot-prevention-and-treatment]]
 - [[cannabis-rosin-pressing]]
+- [[cannabis-safety-profile]]
 - [[cannabis-safety-profile-and-overdose-risk]]
 - [[cannabis-sativa-breeding-evolution]]
 - [[cannabis-sativa-dominant-growing-challenges]]
 - [[cannabis-sativa-flowering-cycle-management]]
+- [[cannabis-sativa-indoor-challenges]]
+- [[cannabis-sativa-indoor-challenges-and-solutions]]
 - [[cannabis-sativa-indoor-cultivation-techniques]]
 - [[cannabis-sativa-indoor-training-techniques]]
+- [[cannabis-sativa-landrace-strains]]
 - [[cannabis-sativa-morphology-and-plant-architecture]]
 - [[cannabis-sativa-vs-indica-guide]]
+- [[cannabis-sativa-vs-indica-therapeutic-profiles]]
 - [[cannabis-schizophrenia-research-detailed]]
 - [[cannabis-screen-of-green-scrog-guide]]
 - [[cannabis-scrog-and-sog-methods]]
@@ -590,6 +598,7 @@
 - [[cannabis-terpene-entourage-effect-profiles]]
 - [[cannabis-terpene-profile]]
 - [[cannabis-terpene-profiles]]
+- [[cannabis-terpene-profiles-sativa]]
 - [[cannabis-terpenoid-profiles-detailed]]
 - [[cannabis-testing-and-quality]]
 - [[cannabis-thai-strain-description-clarke]]
@@ -700,7 +709,6 @@
 - [[cervantes-indica-sativa-ruderalis-differences]]
 - [[cervantes-indoor-grow-room-setup]]
 - [[cervantes-iron-manganese-zinc-micronutrients]]
-- [[cervantes-irrigation-watering-techniques]]
 - [[cervantes-landrace-cannabis-populations]]
 - [[cervantes-light-measurement-meters]]
 - [[cervantes-light-movers]]
@@ -803,6 +811,7 @@
 - [[coco-coir-cannabis]]
 - [[core-endorhiza-bacterial-community-composition-cannabis]]
 - [[core-endorhiza-microbiome-proteobacteria-enrichment-cannabis]]
+- [[core-microbiome-cannabis-endorhiza]]
 - [[cultivar-cannabis-microbiome-two-tier-selection-model]]
 - [[cultivar-endorhiza-bacterial-communities-cannabis]]
 - [[cultivation-facility-design]]
@@ -820,8 +829,10 @@
 - [[ec-tds-cannabis]]
 - [[edaphic-determinants-cannabis-microbiome-community-structure]]
 - [[edaphic-factors-cannabis-endorhiza-microbiome-assembly]]
+- [[edaphic-factors-structuring-cannabis-microbiome]]
 - [[endocannabinoid-neurogenesis-neuroplasticity]]
 - [[endocannabinoid-system]]
+- [[endocannabinoid-system-and-cannabis-pharmacology]]
 - [[endocannabinoid-system-overview]]
 
 ## F
@@ -933,6 +944,7 @@
 - [[marijuana-strain-guide-hybrid]]
 - [[marijuana-strain-guide-indica]]
 - [[marijuana-strain-guide-sativa]]
+- [[methylophilus-cannabis-endorhiza]]
 - [[methylophilus-cannabis-endorhiza-strain-specificity]]
 - [[modern-farm-cannabis-living-soil-vs-hydroponic-debate]]
 - [[modern-farm-lab-and-cannabinoid-terpene-biosynthesis]]
@@ -967,6 +979,7 @@
 - [[plants-of-the-gods-cannabis-ancient-cultures]]
 - [[powdery-mildew-cannabis]]
 - [[proteobacteria-dominance-cannabis-endorhiza]]
+- [[proteobacteria-dominance-cannabis-endorhiza-community]]
 - [[purple-and-color-changing-cannabis-strains]]
 
 ## R
@@ -988,6 +1001,7 @@
 - [[sphingomonas-wittichii-cannabis-endorhiza-strain-specificity]]
 - [[spider-mites-cannabis]]
 - [[stamets-phase-ii-composting]]
+- [[subjective-therapeutic-window-cannabis]]
 
 ## T
 
@@ -1021,13 +1035,3 @@
 
 - [[whiteflies-cannabis]]
 - [[wick-system-cannabis]]
-- [[proteobacteria-dominance-cannabis-endorhiza-community]]
-- [[edaphic-factors-structuring-cannabis-microbiome]]
-- [[cannabis-sativa-indoor-challenges-and-solutions]]
-- [[cannabis-sativa-vs-indica-therapeutic-profiles]]
-- [[core-microbiome-cannabis-endorhiza]]
-- [[subjective-therapeutic-window-cannabis]]
-- [[cannabis-health-index-scoring]]
-- [[cannabis-safety-profile]]
-- [[cannabis-sativa-landrace-strains]]
-- [[methylophilus-cannabis-endorhiza]]

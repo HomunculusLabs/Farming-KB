@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1151 pages**
+**1165 pages**
 
 ## A
 
@@ -48,6 +48,7 @@
 - [[comparison-aquaponics-vs-cannabis-hydroponic-systems]]
 - [[comparison-arbuscular-vs-ectomycorrhizal]]
 - [[comparison-arid-vs-tropical-permaculture]]
+- [[comparison-arnica-vs-calendula]]
 - [[comparison-aronia-vs-goji-vs-sea-buckthorn]]
 - [[comparison-ashwagandha-vs-rhodiola-cultivation]]
 - [[comparison-ashwagandha-vs-tulsi]]
@@ -187,8 +188,10 @@
 - [[comparison-cowpea-vs-mung-bean]]
 - [[comparison-crop-rotation-vs-cover-cropping]]
 - [[comparison-dam-construction-vs-swale-design]]
+- [[comparison-dandelion-vs-yarrow]]
 - [[comparison-deep-bed-cultivation-vs-square-foot-gardening]]
 - [[comparison-deep-litter-vs-hot-composting]]
+- [[comparison-dehydration-vs-lacto-fermentation]]
 - [[comparison-desert-gardening-vs-drought-gardening]]
 - [[comparison-double-digging-vs-no-till]]
 - [[comparison-draft-animal-power-vs-tractor-farming]]
@@ -204,6 +207,7 @@
 - [[comparison-earthbag-construction-vs-cob-construction]]
 - [[comparison-earthbag-vs-adobe-construction]]
 - [[comparison-earthbag-vs-cob-construction]]
+- [[comparison-earthbag-vs-rammed-earth]]
 - [[comparison-earthworm-ecology-vs-earthworm-breeding]]
 - [[comparison-elderberry-vs-echinacea]]
 - [[comparison-elderberry-vs-gooseberry-vs-currant]]
@@ -286,6 +290,7 @@
 - [[comparison-insectary-plants-vs-trap-crops]]
 - [[comparison-jadam-vs-imo-microorganism-solutions]]
 - [[comparison-jasmonate-vs-salicylic-acid-defense-signaling]]
+- [[comparison-jerusalem-artichoke-vs-potato]]
 - [[comparison-jnp-vs-jms]]
 - [[comparison-kava-vs-kratom-cultivation-chemistry-and-uses]]
 - [[comparison-kefir-vs-kombucha]]
@@ -306,6 +311,7 @@
 - [[comparison-lacto-fermentation-vs-kombucha]]
 - [[comparison-laminar-flow-hood-vs-fruiting-chamber]]
 - [[comparison-leaf-mold-composting-vs-hot-composting-method]]
+- [[comparison-lemon-balm-vs-passionflower]]
 - [[comparison-lemongrass-vs-citronella-vs-palmarosa]]
 - [[comparison-lichen-symbiosis-vs-mycorrhizal-symbiosis]]
 - [[comparison-light-straw-clay-vs-hempcrete]]
@@ -361,6 +367,7 @@
 - [[comparison-natural-farming-vs-permaculture]]
 - [[comparison-natural-swimming-pool-vs-conventional-pool]]
 - [[comparison-neem-oil-cannabis-vs-diatomaceous-earth-cannabis]]
+- [[comparison-neem-oil-vs-bacillus-thuringiensis]]
 - [[comparison-neem-oil-vs-diatomaceous-earth]]
 - [[comparison-neem-oil-vs-pyrethrin]]
 - [[comparison-nettle-vs-comfrey]]
@@ -429,11 +436,13 @@
 - [[comparison-rhizofiltration-vs-phytoextraction]]
 - [[comparison-rhizosphere-ecology-vs-mycorrhizal-fungi]]
 - [[comparison-rocket-stove-vs-masonry-heater]]
+- [[comparison-rocket-stove-vs-pellet-stove]]
 - [[comparison-rockwool-vs-coco-coir]]
 - [[comparison-root-cellar-vs-ice-house]]
 - [[comparison-root-cellaring-guide-vs-canning-and-preserving]]
 - [[comparison-root-cellaring-vs-dehydration]]
 - [[comparison-root-cellaring-vs-food-dehydration]]
+- [[comparison-root-cellaring-vs-freezing]]
 - [[comparison-rotational-grazing-vs-continuous-grazing]]
 - [[comparison-rotational-grazing-vs-set-stocking]]
 - [[comparison-scented-geraniums-vs-edible-flowers]]
@@ -893,6 +902,7 @@
 - [[query-how-to-grow-mushrooms-outdoors-in-a-garden]]
 - [[query-how-to-grow-oyster-mushrooms-at-home]]
 - [[query-how-to-grow-passionfruit-in-different-climates]]
+- [[query-how-to-grow-pecan-trees-and-manage-a-home-pecan-orchard]]
 - [[query-how-to-grow-pomegranate-in-different-climates]]
 - [[query-how-to-grow-potatoes-organically]]
 - [[query-how-to-grow-reishi-mushrooms]]
@@ -916,6 +926,7 @@
 - [[query-how-to-make-and-use-leaf-mold-in-your-garden]]
 - [[query-how-to-make-and-use-plant-based-foliar-sprays-for-pest-and-disease-prevention]]
 - [[query-how-to-make-cannabis-tinctures-at-home]]
+- [[query-how-to-make-comfrey-tea-fertilizer]]
 - [[query-how-to-make-compost-tea-for-my-plants]]
 - [[query-how-to-make-fermented-plant-extracts-for-natural-fertilizer]]
 - [[query-how-to-make-fish-hydrolysate-fertilizer]]
@@ -1016,6 +1027,7 @@
 - [[query-what-are-the-benefits-of-growing-mushrooms-at-home]]
 - [[query-what-are-the-benefits-of-integrating-chickens-into-a-garden]]
 - [[query-what-are-the-benefits-of-no-till-gardening]]
+- [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]]
 - [[query-what-are-the-best-ancient-and-heritage-grains-for-small-scale-farming]]
 - [[query-what-are-the-best-anxiolytic-herbs-to-grow-at-home]]
 - [[query-what-are-the-best-beneficial-insects-for-organic-gardening]]
@@ -1193,6 +1205,8 @@
 
 ## S
 
+- [[seasonal-homesteading-calendar]]
+- [[seasonal-homesteading-fall-winter]]
 - [[seed-company-supplier-reference]]
 - [[seed-starting-methods-comparison]]
 - [[shiitake-log-vs-sawdust-cultivation]]
@@ -1205,8 +1219,3 @@
 
 - [[water-harvesting-techniques-comparison]]
 - [[what-natural-farming-method-should-i-use]]
-- [[comparison-earthbag-vs-rammed-earth]]
-- [[comparison-neem-oil-vs-bacillus-thuringiensis]]
-- [[comparison-root-cellaring-vs-freezing]]
-- [[query-how-to-make-comfrey-tea-fertilizer]]
-- [[query-what-are-the-benefits-of-straw-mulch-in-the-garden-and-how-do-i-use-it]]

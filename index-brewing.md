@@ -2,7 +2,7 @@
 
 > Fermented foods, beverages, probiotics, and traditional fermentation methods
 
-**37 pages**
+**39 pages**
 
 ## A
 
@@ -42,9 +42,11 @@
 
 ## K
 
+- [[kefir-making]]
 - [[kimchi-making]]
 - [[koji-and-amylase-fermentation]]
 - [[kombucha-and-fermented-teas-guide]]
+- [[kombucha-brewing]]
 
 ## L
 
