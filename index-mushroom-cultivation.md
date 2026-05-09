@@ -2,7 +2,7 @@
 
 > Growing mushrooms, substrates, sterile technique, species-specific guides, and commercial production
 
-**1247 pages**
+**1257 pages**
 
 ## #
 
@@ -64,6 +64,7 @@
 - [[brassinosteroid-dung-grain-substrate-fruiting-enhancement]]
 - [[brassinosteroid-morphological-effects-psilocybe-cubensis-fruiting]]
 - [[brassinosteroid-mushroom-yield-dry-mass]]
+- [[brassinosteroid-substrate-comparison-agar-vs-dung-grain-psilocybe-cubensis]]
 - [[brassinosteroids-psilocybin-fruiting]]
 - [[brown-rice-flour-substrate]]
 - [[buildings-tools-equipment-mushroom-cultivation]]
@@ -511,6 +512,7 @@
 ## J
 
 - [[jadam-antibiotic-soil-contamination]]
+- [[jar-lid-management-sterilization-cooling-vacuum-prevention-shaking]]
 - [[jar-preparation-and-sterilization]]
 - [[jar-shaking-colonization-acceleration-grain-spawn-grass-seed]]
 - [[jarrold-boil-a-bag-mushroom-cultivation-method]]
@@ -630,6 +632,7 @@
 - [[microbial-kill-curve-microwave-surface-sterilization-kinetics]]
 - [[microbial-kill-curves-sterilization-validation]]
 - [[microwave-exposure-system-architecture-surface-sterilization]]
+- [[microwave-induced-steam-surface-sterilization-mechanism]]
 - [[microwave-penetration-through-elastomeric-materials-sterilization]]
 - [[microwave-reflective-transparent-materials-surface-sterilization]]
 - [[microwave-steam-flash-sterilization-mechanism]]
@@ -751,6 +754,7 @@
 - [[mushroom-food-value]]
 - [[mushroom-foraging-safety]]
 - [[mushroom-forcing-techniques]]
+- [[mushroom-fruiting-body-morphogenesis]]
 - [[mushroom-fruiting-body-morphology]]
 - [[mushroom-fruiting-chamber-design]]
 - [[mushroom-fruiting-chamber-design-parameters]]
@@ -885,6 +889,7 @@
 
 - [[nameko-cultivation]]
 - [[nameko-mushroom-cultivation]]
+- [[nasa-microwave-sterilization-challenge-organisms-kill-kinetics]]
 - [[natural-farming-microbial-inoculants]]
 - [[nineteenth-century-mushroom-cellars]]
 - [[nineteenth-century-mushroom-cultivation]]
@@ -913,6 +918,7 @@
 - [[outdoor-woodlover-bed-preparation]]
 - [[outdoor-woodlover-mushroom-cultivation]]
 - [[overnight-soak-grass-seed-substrate-homogeneity]]
+- [[overnight-soak-method-homogeneous-grass-seed-substrate]]
 - [[overnight-soak-versus-direct-hydration-grass-seed-substrate]]
 - [[oyster-brown-blotch-disease]]
 - [[oyster-cultivation-kenya]]
@@ -1001,6 +1007,7 @@
 - [[pf-tek-desiccant-drying-technique]]
 - [[pf-tek-dry-vermiculite-contaminant-barrier]]
 - [[pf-tek-equipment-and-material-procurement-guide]]
+- [[pf-tek-ethyl-alcohol-extraction-liqueur-concentration]]
 - [[pf-tek-ethyl-alcohol-extraction-psilocybin-liqueur]]
 - [[pf-tek-fruiting-chamber]]
 - [[pf-tek-fruiting-chamber-temperature-and-heating-principles]]
@@ -1042,6 +1049,7 @@
 - [[pf-tek-vermiculite-grading-and-water-retention]]
 - [[pf-tek-vermiculite-type-comparison-water-holding-capacity]]
 - [[phase-ii-room-design]]
+- [[phosphorylation-methods-psilocybin-production-comparison]]
 - [[phycomyces-anemotropism-comparison-mushroom-tropism-mechanisms]]
 - [[plaincourault-fresco-mushroom-myth]]
 - [[plants-gods-psilocybin-mushrooms]]
@@ -1069,6 +1077,7 @@
 - [[psilocybe-cubensis-fruiting-timeline-flush-patterns-dung-grain-substrate]]
 - [[psilocybe-cubensis-malt-agar-dung-grain-cultivation]]
 - [[psilocybe-mexicana-cultivation]]
+- [[psilocybe-mexicana-sclerotia-timeline-dark-incubation-flush-pattern]]
 - [[psilocybe-sclerotia-producing-species-comparison-mexicana-tampanensis]]
 - [[psilocybe-tampanensis-cultivation]]
 - [[psilocybe-woodlovers-species-guide]]
@@ -1096,6 +1105,7 @@
 - [[psilocybin-mushroom-evolution]]
 - [[psilocybin-mushroom-extraterrestrial-hypothesis]]
 - [[psilocybin-mushroom-field-collection-techniques]]
+- [[psilocybin-mushroom-galactic-symbiote-mckenna-hypothesis]]
 - [[psilocybin-mushroom-global-distribution]]
 - [[psilocybin-mushroom-habitat-and-ecology]]
 - [[psilocybin-mushroom-habitat-types]]

@@ -2,7 +2,7 @@
 
 > Side-by-side comparisons and query-based analysis pages
 
-**1155 pages**
+**1156 pages**
 
 ## A
 
@@ -353,6 +353,7 @@
 - [[comparison-mulch-vs-living-mulch]]
 - [[comparison-mulching-guide-vs-green-manure-guide]]
 - [[comparison-mullein-vs-calendula]]
+- [[comparison-mullein-vs-chamomile]]
 - [[comparison-mushroom-liquid-culture-vs-spore-syringe]]
 - [[comparison-mushroom-log-cultivation-vs-monotub-cultivation]]
 - [[comparison-mushroom-log-cultivation-vs-mushroom-indoor-cultivation]]

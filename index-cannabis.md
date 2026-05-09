@@ -2,7 +2,7 @@
 
 > Cannabis cultivation, genetics, breeding, processing, and medical applications
 
-**979 pages**
+**984 pages**
 
 ## A
 
@@ -538,6 +538,7 @@
 - [[cannabis-respiratory-conditions]]
 - [[cannabis-root-bound-symptoms-and-management]]
 - [[cannabis-root-decay-cellvibrio-biomarker-post-harvest]]
+- [[cannabis-root-medicine-historical-modern-perspectives]]
 - [[cannabis-root-microbiome]]
 - [[cannabis-root-rot-prevention-and-treatment]]
 - [[cannabis-rosin-pressing]]
@@ -604,6 +605,7 @@
 - [[cannabis-terpene-and-aroma-chemistry-clarke]]
 - [[cannabis-terpene-entourage-effect]]
 - [[cannabis-terpene-entourage-effect-profiles]]
+- [[cannabis-terpene-pharmacology-and-entourage-effect]]
 - [[cannabis-terpene-profile]]
 - [[cannabis-terpene-profiles]]
 - [[cannabis-terpene-profiles-sativa]]
@@ -640,6 +642,7 @@
 - [[carbon-filter-cannabis]]
 - [[cbd-to-thc-isomerization-chemistry]]
 - [[cellvibrio-post-harvest-root-decay-cannabis]]
+- [[cellvibrio-root-decay-indicator-cannabis-endorhiza]]
 - [[cervantes-15-bag-water-hash-extraction]]
 - [[cervantes-air-quality-ventilation]]
 - [[cervantes-aphids-identification-control]]
@@ -822,6 +825,7 @@
 - [[core-microbiome-cannabis-endorhiza]]
 - [[cultivar-cannabis-microbiome-two-tier-selection-model]]
 - [[cultivar-endorhiza-bacterial-communities-cannabis]]
+- [[cultivar-specificity-persistence-post-harvest-cannabis-endorhiza]]
 - [[cultivation-facility-design]]
 - [[curing-cannabis]]
 
@@ -1037,5 +1041,6 @@
 
 ## W
 
+- [[weighted-vs-unweighted-unifrac-cannabis-strain-microbiome]]
 - [[whiteflies-cannabis]]
 - [[wick-system-cannabis]]

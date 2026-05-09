@@ -2,7 +2,7 @@
 
 > Fukuoka's natural farming, Korean Natural Farming (KNF), JADAM, and no-till methods
 
-**979 pages**
+**980 pages**
 
 ## A
 
@@ -30,6 +30,7 @@
 - [[cannabis-for-crohns-and-ibd]]
 - [[cannabis-glandular-trichome-types-resin-production-clarke]]
 - [[cannabis-knf-ffj-ripeness-progression]]
+- [[cannabis-trichome-development-cannabinoid-biosynthesis-sites]]
 - [[cannabis-trichome-guide]]
 - [[cannabis-trichome-types-and-development]]
 - [[cervantes-harvest-timing-trichome-ripeness]]

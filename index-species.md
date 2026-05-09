@@ -2,7 +2,7 @@
 
 > Individual species entries from PIHKAL, TIHKAL, and taxonomic references
 
-**3166 pages**
+**3179 pages**
 
 ## #
 
@@ -586,6 +586,7 @@
 - [[calendula-officinalis]]
 - [[calliandra-calothyrsus]]
 - [[calluna-vulgaris]]
+- [[calocedrus-decurrens]]
 - [[calocybe-gambosa]]
 - [[calocybe-indica]]
 - [[calvatia-cyathiformis]]
@@ -686,6 +687,7 @@
 - [[chaga-inonotus-obliquus]]
 - [[chalciporus-piperatus]]
 - [[chamaecrista-fasciculata]]
+- [[chamaecyparis-lawsoniana]]
 - [[chamaecytisus-palmensis]]
 - [[chamomilla-recutita-entity]]
 - [[chanoclavine]]
@@ -781,6 +783,7 @@
 - [[coccidioides-immitis]]
 - [[coccinia-grandis]]
 - [[cocos-nucifera]]
+- [[codeine]]
 - [[codonopsis-pilosula]]
 - [[coffea-arabica]]
 - [[coffea-canephora]]
@@ -879,6 +882,7 @@
 - [[crotalaria-juncea]]
 - [[croton-lechleri]]
 - [[cryptococcus-neoformans]]
+- [[cryptomeria-japonica]]
 - [[cryptoporus-volvatus]]
 - [[cryptotaenia-japonica]]
 - [[cucumis-melo]]
@@ -888,6 +892,7 @@
 - [[cucurbita-pepo]]
 - [[cuminum-cyminum]]
 - [[cupressus-macrocarpa]]
+- [[cupressus-sempervirens]]
 - [[curculigo-orchioides]]
 - [[curcuma-amada]]
 - [[curcuma-amarissima]]
@@ -1156,6 +1161,7 @@
 - [[etizolam]]
 - [[etlingera-elatior]]
 - [[eucalyptol]]
+- [[eucalyptus-camaldulensis]]
 - [[eucalyptus-globulus]]
 - [[eucheuma-cottonii]]
 - [[eucheuma-denticulatum]]
@@ -1249,6 +1255,7 @@
 - [[gaillardia-aristata]]
 - [[gaillardia-pulchella]]
 - [[galantamine]]
+- [[galanthus-nivalis]]
 - [[galbulimima-belgraveana]]
 - [[galerina-autumnalis]]
 - [[galerina-marginata]]
@@ -1530,6 +1537,7 @@
 - [[ipomoea-violacea]]
 - [[iris-entity]]
 - [[iris-entity-pihkal]]
+- [[iris-pseudacorus]]
 - [[irpex-lacteus]]
 - [[ischnoderma-resinosum]]
 - [[isoproscaline]]
@@ -1846,6 +1854,7 @@
 - [[mdea]]
 - [[mdhoet-entity-pihkal]]
 - [[mdip-entity-pihkal]]
+- [[mdma]]
 - [[mdmc-entity-pihkal]]
 - [[mdmeo-entity-pihkal]]
 - [[mdmeoet-entity-pihkal]]
@@ -1892,6 +1901,7 @@
 - [[meta-dot-entity-pihkal]]
 - [[metarhizium]]
 - [[metarhizium-anisopliae]]
+- [[metasequoia-glyptostroboides]]
 - [[methoxetamine]]
 - [[methyl-dma-entity-pihkal]]
 - [[methyl-dob-entity-pihkal]]
@@ -2003,6 +2013,7 @@
 - [[nabilone]]
 - [[nabiximols]]
 - [[nannochloropsis-gaditana]]
+- [[narcissus-pseudonarcissus]]
 - [[nasturtium-officinale]]
 - [[neem]]
 - [[nelumbo-nucifera]]
@@ -2604,6 +2615,7 @@
 - [[richard-evans-schultes-updated]]
 - [[richard-gottlieb]]
 - [[richard-perkins]]
+- [[ricinus-communis]]
 - [[rick-strassman]]
 - [[rivea-corymbosa]]
 - [[robert-clarke]]
@@ -2943,6 +2955,7 @@
 - [[thelephora-terrestris]]
 - [[theobroma-cacao]]
 - [[theobroma-grandiflorum]]
+- [[theobromine]]
 - [[thin-mint]]
 - [[thin-mint-cookies]]
 - [[thuidium-delicatulum]]
